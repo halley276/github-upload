@@ -1,0 +1,39 @@
+body {
+	background-color: #003566; /*this is a hexcode*/
+	color: white;
+	font-size: 24px; 
+	margin: 50px
+
+}
+
+a{
+	color: white;
+}
+
+h1 {
+	font-family: 'Redressed', cursive;
+	font-size: 50px; 
+	color: #ffcb69;
+} 
+
+h3{
+	font-family: 'Redressed', cursive;
+	font-size: 36px; 
+}
+
+h4{
+	font-family: 'Redressed', cursive;
+	font-size: 36px; 
+	color: #fbc4ab;
+}
+
+.bluebox {
+	background-color: #0081a7;
+	padding: 30px;
+	line-height: 150%
+}
+
+strong {
+	color: #fcf6bd;
+	font-style: italic;
+}
